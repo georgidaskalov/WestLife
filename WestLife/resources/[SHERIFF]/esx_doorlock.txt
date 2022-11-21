@@ -1,0 +1,190 @@
+[FR]
+
+Ajouter dans le config.lua ceci >> 
+
+	-- Sheriff
+	{
+		objName = 'v_ilev_ph_cellgate',
+		objYaw = 316.76,
+		objCoords  = vector3(-428.62, 5997.25, 31.71),
+		textCoords = vector3(-428.62, 5997.25, 31.71),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_ph_cellgate',
+		objYaw = 317.57,
+		objCoords  = vector3(-431.80, 6000.37, 31.71),
+		textCoords = vector3(-431.80, 6000.37, 31.71),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_fingate',
+		objYaw = 315.0,
+		objCoords  = vector3(-436.89, 5992.02, 31.71),
+		textCoords = vector3(-436.89, 5992.02, 31.71),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_shrf2door',
+		objYaw = 225.84,
+		objCoords  = vector3(-475.28, 5973.50, 31.42),
+		textCoords = vector3(-475.28, 5973.50, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_ph_cellgate',
+		objYaw = 225.51,
+		objCoords  = vector3(-476.55, 5990.65, 31.42),
+		textCoords = vector3(-476.55, 5990.65, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_cf_officedoor',
+		objYaw = 226.75,
+		objCoords  = vector3(-485.88, 5978.29, 31.42),
+		textCoords = vector3(-485.88, 5978.29, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_cd_entrydoor',
+		objYaw = 225.60,
+		objCoords  = vector3(-459.08, 5989.78, 31.42),
+		textCoords = vector3(-459.08, 5989.78, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_ph_cellgate',
+		objYaw = 226.60,
+		objCoords  = vector3(-494.30, 5990.70, 31.42),
+		textCoords = vector3(-494.30, 5990.70, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_ph_cellgate',
+		objYaw = 226.99,
+		objCoords  = vector3(-488.87, 5996.62, 31.42),
+		textCoords = vector3(-488.87, 5996.62, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_ph_cellgate',
+		objYaw = 226.58,
+		objCoords  = vector3(-485.61, 5999.69, 31.42),
+		textCoords = vector3(-485.61, 5999.69, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+[EN]
+
+Add in config.lua this >>
+
+	-- Sheriff
+	{
+		objName = 'v_ilev_ph_cellgate',
+		objYaw = 316.76,
+		objCoords  = vector3(-428.62, 5997.25, 31.71),
+		textCoords = vector3(-428.62, 5997.25, 31.71),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_ph_cellgate',
+		objYaw = 317.57,
+		objCoords  = vector3(-431.80, 6000.37, 31.71),
+		textCoords = vector3(-431.80, 6000.37, 31.71),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_fingate',
+		objYaw = 315.0,
+		objCoords  = vector3(-436.89, 5992.02, 31.71),
+		textCoords = vector3(-436.89, 5992.02, 31.71),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_shrf2door',
+		objYaw = 225.84,
+		objCoords  = vector3(-475.28, 5973.50, 31.42),
+		textCoords = vector3(-475.28, 5973.50, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_ph_cellgate',
+		objYaw = 225.51,
+		objCoords  = vector3(-476.55, 5990.65, 31.42),
+		textCoords = vector3(-476.55, 5990.65, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_cf_officedoor',
+		objYaw = 226.75,
+		objCoords  = vector3(-485.88, 5978.29, 31.42),
+		textCoords = vector3(-485.88, 5978.29, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_cd_entrydoor',
+		objYaw = 225.60,
+		objCoords  = vector3(-459.08, 5989.78, 31.42),
+		textCoords = vector3(-459.08, 5989.78, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_ph_cellgate',
+		objYaw = 226.60,
+		objCoords  = vector3(-494.30, 5990.70, 31.42),
+		textCoords = vector3(-494.30, 5990.70, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_ph_cellgate',
+		objYaw = 226.99,
+		objCoords  = vector3(-488.87, 5996.62, 31.42),
+		textCoords = vector3(-488.87, 5996.62, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+
+	{
+		objName = 'v_ilev_ph_cellgate',
+		objYaw = 226.58,
+		objCoords  = vector3(-485.61, 5999.69, 31.42),
+		textCoords = vector3(-485.61, 5999.69, 31.42),
+		authorizedJobs = { 'sheriff' },
+		locked = true
+	},
+

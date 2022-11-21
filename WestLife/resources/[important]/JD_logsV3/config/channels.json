@@ -1,0 +1,107 @@
+{
+  "newInstall": false,
+  "all": {
+    "channelId": "put your channel id",
+    "color": "#A1A1A1",
+    "embed": true,
+    "client": 1
+  },
+  "system": {
+    "channelId": "put your channel id",
+    "icon": "🧾",
+    "color": "#A1A1A1",
+    "embed": true,
+    "client": 2
+  },
+  "imageStore": {
+    "channelId": "1003577820133466162",
+    "webhookID": "Put your webhook ID",
+    "webhookToken": "Put your webhook token"
+  },
+  "chat": {
+    "channelId": "put your channel id",
+    "icon": "💬",
+    "color": "#A1A1A1",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "join": {
+    "channelId": "put your channel id",
+    "icon": "📥",
+    "color": "#3AF241",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "leave": {
+    "channelId": "put your channel id",
+    "icon": "📤",
+    "color": "#F23A3A",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "death": {
+    "channelId": "put your channel id",
+    "icon": "💀",
+    "color": "#000000",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "shooting": {
+    "channelId": "put your channel id",
+    "icon": "🔫",
+    "color": "#2E66F2",
+    "logHistory": false,
+    "embed": true,
+    "client": 2
+  },
+  "resource": {
+    "channelId": "put your channel id",
+    "icon": "🔧",
+    "color": "#EBEE3F",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "nameChange": {
+    "channelId": "put your channel id",
+    "icon": "💠",
+    "color": "#03FC98",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "explosion": {
+    "channelId": "put your channel id",
+    "icon": "🧨",
+    "color": "#03FC98",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "screenshot": {
+    "channelId": "put your channel id",
+    "icon": "📸",
+    "color": "#A1A1A1",
+    "logHistory": false,
+    "embed": true,
+    "client": 2
+  },
+  "txAdmin": {
+    "channelId": "put your channel id",
+    "icon": "💻",
+    "color": "#FFFFFF",
+    "embed": true,
+    "client": 2
+  },
+  "damage": {
+    "channelId": "put your channel id",
+    "icon": "🩸",
+    "color": "#FF0000",
+    "embed": true,
+    "client": 2
+  }
+}

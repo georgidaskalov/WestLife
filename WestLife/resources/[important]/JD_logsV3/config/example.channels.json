@@ -1,0 +1,107 @@
+{
+  "newInstall": true,
+  "all": {
+    "channelId": "962729363101593710",
+    "color": "#A1A1A1",
+    "embed": true,
+    "client": 1
+  },
+  "system": {
+    "channelId": "962729609923809290",
+    "icon": "🧾",
+    "color": "#A1A1A1",
+    "embed": true,
+    "client": 2
+  },
+  "imageStore": {
+    "channelId": "1003563944029454397",
+    "webhookID": "https://discord.com/api/webhooks/1003564026468507678/NpDYKh7VkrsYSsa5XDNQhEUIykj7F0qlySKmwwrWiMeJs6NpdW_oKvTAEvnwxQ9MXL3w",
+    "webhookToken": "https://discord.com/api/webhooks/1003564026468507678/NpDYKh7VkrsYSsa5XDNQhEUIykj7F0qlySKmwwrWiMeJs6NpdW_oKvTAEvnwxQ9MXL3w"
+  },
+  "chat": {
+    "channelId": "962728810162294834",
+    "icon": "💬",
+    "color": "#A1A1A1",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "join": {
+    "channelId": "962729508492959826",
+    "icon": "📥",
+    "color": "#3AF241",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "leave": {
+    "channelId": "962729508492959826",
+    "icon": "📤",
+    "color": "#F23A3A",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "death": {
+    "channelId": "962729846486757426",
+    "icon": "💀",
+    "color": "#000000",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "shooting": {
+    "channelId": "962729846486757426",
+    "icon": "🔫",
+    "color": "#2E66F2",
+    "logHistory": false,
+    "embed": true,
+    "client": 2
+  },
+  "resource": {
+    "channelId": "962729609923809290",
+    "icon": "🔧",
+    "color": "#EBEE3F",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "nameChange": {
+    "channelId": "962729508492959826",
+    "icon": "💠",
+    "color": "#03FC98",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "explosion": {
+    "channelId": "962729609923809290",
+    "icon": "🧨",
+    "color": "#03FC98",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "screenshot": {
+    "channelId": "1003563944029454397",
+    "icon": "📸",
+    "color": "#A1A1A1",
+    "logHistory": false,
+    "embed": true,
+    "client": 2
+  },
+  "txAdmin": {
+    "channelId": "1003563944029454397",
+    "icon": "💻",
+    "color": "#FFFFFF",
+    "embed": true,
+    "client": 2
+  },
+  "damage": {
+    "channelId": "962729846486757426",
+    "icon": "🩸",
+    "color": "#FF0000",
+    "embed": true,
+    "client": 2
+  }
+}

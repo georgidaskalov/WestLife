@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Digital';
+    src: url('./fonts/digital_counter_7_italic.ttf');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+#speed {
+    /*position: absolute;*/
+    font-family: "Digital";
+    font-weight: bolder;
+    font-size: 30px;
+    color: #282828;
+	position: fixed;
+	left: 81.5%;
+    top: 74%;
+}
+
+#range {
+    font-family: "Digital";
+    font-weight: bolder;
+    font-size: 30px;
+	position: fixed;
+    left: 90%;
+    top: 74%;
+    color: #282828;
+}
+#lasergun {
+    display: none;
+    height: 490px;
+    width: 600px;
+	position: fixed;
+    bottom: 0;
+    right: 0;
+    background: url("Radargun.png");
+}
